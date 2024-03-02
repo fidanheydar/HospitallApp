@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DnisSnEnf3n1To6b5iJDh8HilB5Lupdhb/rDMp4RmKZBXcn2/NHgIIJJ9BGdU/9KquIbGbnHMnHuRx5QqnZmnQ==",
+  "dgSpecHash": "npYLRr2XlQTuIA1AZCqDHg1CXpur6Fo1hnW5EjjoXI7nK3u6CUu1AiUFF+RVpMPNV6rDiPd3cmtK0GUJdikRGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

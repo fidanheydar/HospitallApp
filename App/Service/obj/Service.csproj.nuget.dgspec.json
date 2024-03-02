@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Service\\Service.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Core\\Core.csproj": {
+    "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Core\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\Data.csproj": {
+    "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Core\\Core.csproj"
+              "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Core\\Core.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Service\\Service.csproj": {
+    "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Service\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,8 +158,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\Data.csproj"
+              "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\Data.csproj"
               }
             }
           }

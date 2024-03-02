@@ -45,16 +45,29 @@ namespace Service
         {
             return _dbcontext.Apointments.Include(x => x.Doctor).Include(x => x.Patient).ToList();
         }
-        
 
-        //public void MakeApointment(Apointment apointment)
-        //{
-        //    if(_dbcontext.Doctors.FirstOrDefault(x => x.Id == _dbcontext.DoctorId) == null)
-        //    {
-        //        throw new EntityNotFoundException("Doctor not found!");
 
-        //    }
-                
-        //}
+        public void MakeApointment(Apointment apointment)
+        {
+            if (_dbcontext.Doctors.FirstOrDefault(x => x.Id == apointment.DoctorId) == null)
+            {
+                throw new EntityNotFoundException("Doctor not found!");
+            }
+            if (_dbcontext.Patients.FirstOrDefault(x => x.Id == apointment.PatientId) == null)
+            {
+                throw new EntityNotFoundException("Doctor not found!");
+            }
+            if (_dbcontext.Apointments.Any(x => x.StartDate == apointment.StartDate) == null)
+            {
+                throw new EntityNotFoundException("This time is not available!");
+            }
+            if (_dbcontext.Apointments.Any(x => x.StartDate.AddMinutes(30) >= apointment.StartDate && x.DoctorId == apointment.DoctorId))
+            {
+                throw new TimeNotAvailableException("This time is not available!");
+            }
+            _dbcontext.Apointments.Add(apointment);
+            _dbcontext.SaveChanges();
+
+        }
     }
 }

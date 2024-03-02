@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\App\\App.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\App\\App.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\App\\App.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\App\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

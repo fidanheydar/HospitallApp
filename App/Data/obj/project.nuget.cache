@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NkiJ0bX4IPzGbPWuBRPulnSbFUIfaX9I32YXWx8WRUSddhPZiVbZVUHfXHT18rEP0854SYxFnf7Yni7CsG7aCA==",
+  "dgSpecHash": "kGKggMxMjSZL70QE3cqEQXRwipLqSqEviz3VhCftUMFndDtIEoF1y5QruGX/znpp+dwYnPxF4QQmhjDeCE6Vhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\FidanHospital\\App\\Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Новая папка (2)\\HospitalApp\\App\\Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
