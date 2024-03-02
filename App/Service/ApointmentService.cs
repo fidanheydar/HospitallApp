@@ -55,7 +55,7 @@ namespace Service
             }
             if (_dbcontext.Patients.FirstOrDefault(x => x.Id == apointment.PatientId) == null)
             {
-                throw new EntityNotFoundException("Doctor not found!");
+                throw new EntityNotFoundException("Patient not found!");
             }
             if (_dbcontext.Apointments.Any(x => x.StartDate == apointment.StartDate) == null)
             {
